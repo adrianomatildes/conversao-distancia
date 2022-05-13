@@ -19,7 +19,7 @@ Este laboratório tem o objetivo de containerizar uma aplicação me Python, ess
 ## Resultado da aplicação containerizada
 
 <div align="center">
-  <img src="" width="400px" />
+  <img src="![distancia](https://user-images.githubusercontent.com/68225621/168342836-526e5bfb-ffed-4dc5-8152-d323d6e4011c.png)" width="400px" />
 </div>
 
 ## Autor
